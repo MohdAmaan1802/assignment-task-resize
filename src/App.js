@@ -8,16 +8,16 @@ function App() {
         <SplitPane split="vertical" minSize={100} defaultSize="50%">
           <div className="pane-content">
             <h1>Window-1</h1>
-            <p>Component-1 (some HTML content)</p>
+            <p>Component-1 (some HTML content 1 )</p>
           </div>
           <div className="pane-content">
             <h1>Window-2</h1>
-            <p>Component-2 (some HTML content)</p>
+            <p>Component-2 (some HTML content 2 )</p>
           </div>
         </SplitPane>
         <div className="pane-content">
           <h1>Window-3</h1>
-          <p>Component-3 (some HTML content)</p>
+          <p>Component-3 (some HTML content 3 )</p>
         </div>
       </SplitPane>
     </div>
